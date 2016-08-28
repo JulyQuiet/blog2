@@ -1,9 +1,10 @@
 var express = require('express');
+//创建一个路由容器
 var router = express.Router();
 
-/* GET home page.设置路由 */
-router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+//当访问首页的时候，直接跳转到文章列表页面
+router.get('/', function (req, res, next) {
+    res.redirect('/article/list');
 });
 
 module.exports = router;

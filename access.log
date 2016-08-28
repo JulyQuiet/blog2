@@ -1,0 +1,5 @@
+[0mGET / [36m302 [0m18.234 ms - 70[0m
+[0mGET /article/list [36m304 [0m73.812 ms - -[0m
+[0mGET /lib/bootstrap/dist/css/bootstrap.css [36m304 [0m14.545 ms - -[0m
+[0mGET /lib/jquery/dist/jquery.js [36m304 [0m15.910 ms - -[0m
+[0mGET /lib/bootstrap/dist/js/bootstrap.js [36m304 [0m15.976 ms - -[0m

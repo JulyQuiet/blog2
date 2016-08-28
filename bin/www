@@ -11,7 +11,6 @@ var debug = require('debug')('blog2:server');
 var http = require('http');
 
 /**
- * Get port from environment and store in Express.
  * 从环境变量中获取端口号并且保存在express内部
  */
 
